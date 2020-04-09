@@ -115,4 +115,5 @@ in this system any 3 role : admin, operator, user
 
 ## Info
 if you want to show data from geojson, you can drag and drop your geojson file to https://developers.google.com/maps/documentation/javascript/examples/layer-data-dragndrop
+<br>
 open folder '../samplefiles' if you want to use sample file
