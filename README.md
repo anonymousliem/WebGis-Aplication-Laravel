@@ -7,6 +7,8 @@ This project is Geographic information system using Laravel and Google Maps Api
 
 ![image](https://user-images.githubusercontent.com/38047246/78909424-b30b1400-7aad-11ea-9cd7-549193c1fcd1.png)
 
+![image](https://user-images.githubusercontent.com/38047246/83380256-b6fd4780-a407-11ea-93b6-094f8248070e.png)
+
 ![image](https://user-images.githubusercontent.com/38047246/78911408-77257e00-7ab0-11ea-94b5-57a5f81989ea.png)
 
 ![image](https://user-images.githubusercontent.com/38047246/78897466-69fe9400-7a9c-11ea-907f-cc71129ef1fa.png)
@@ -117,6 +119,8 @@ in this system any 3 role : admin, operator, user
 * Admin and user can export table from maps table to excel
 * Admin and user can upload file csv to insert in database
 * Admin and operator can create, read, delete account
+* Admin and user can create polygon from maps
+* Admin and user can create, read, update, detele polygon from table
 
 ## Info
 if you want to show data from geojson, you can drag and drop your geojson file to https://developers.google.com/maps/documentation/javascript/examples/layer-data-dragndrop
